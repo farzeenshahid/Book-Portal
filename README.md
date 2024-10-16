@@ -19,3 +19,17 @@ npm install <br>
 npm init # only if package.json is not present <br>
 npm install mongoose express cors <br>
 node index.js <br>
+## Login
+![Login-image](https://github.com/farzeenshahid/Book-Portal/blob/main/assets/Login.jpg)
+## Signup
+![Signup-page](https://github.com/farzeenshahid/Book-Portal/blob/main/assets/Signup.jpg)
+## Home
+![Home-page](https://github.com/farzeenshahid/Book-Portal/blob/main/assets/Home.jpg)
+## Add Books
+![Add](https://github.com/farzeenshahid/Book-Portal/blob/main/assets/Home.jpg)
+## Update Books
+![Update](https://github.com/farzeenshahid/Book-Portal/blob/main/assets/Update%20Books.jpg)
+## About Us
+![About-us](https://github.com/farzeenshahid/Book-Portal/blob/main/assets/About%20Us.jpg)
+## Feedback
+![Feedback](https://github.com/farzeenshahid/Book-Portal/blob/main/assets/Feedback.jpg)
